@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark">#FF222222</color>
+    <color name="light">#FFEEEEEE</color>
+    <!-- drop down list header font color -->
+    <color name="drop_down_list_header_font_color">#000000</color>
+    <!-- drop down list header second font color -->
+    <color name="drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="drop_down_list_footer_font_color">#000000</color>
+    <color name="darkgray">#FF111111</color>
+    <color name="white">#000000</color>
+    <color name="titel_bg">#0095E1</color>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="background_tab_pressed">#0095E1</color>
+    <color name="mine_bg">#F1F3F2</color>
+    <color name="child_bg">#FEFEFE</color>
+    <color name="needblack">#000000</color>
+    <color name="needwhite">#ffffff</color>
+    <color name="needblue">#0B4FA2</color>
+    <color name="popupwindow_background">#303030</color>
+    <color name="gray">#F1F3F2</color>
+    <color name="ad_gray">#A1A1A1</color>
+    <color name="myinformationtextgray">#000000</color>
+    <color name="desctextcolor">#878787</color>
+    <color name="left_text_gray">#8C8D8D</color>
+    <color name="qiangray">#d8d2d2</color>
+</resources>
