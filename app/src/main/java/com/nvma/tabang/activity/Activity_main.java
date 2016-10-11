@@ -2,15 +2,10 @@ package com.nvma.tabang.activity;
 
 
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.support.v4.view.ViewPager.OnPageChangeListener;
-import android.support.v4.widget.DrawerLayout;
-import android.support.v4.widget.DrawerLayout.DrawerListener;
 import android.widget.RadioGroup;
-
 import com.nvma.tabang.R;
 import com.nvma.tabang.fragment.FragmentMainMission;
 import com.nvma.tabang.view.Frag;
